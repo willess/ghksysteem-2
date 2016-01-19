@@ -59,15 +59,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="28.27451">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.24517088">
+              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
               <folding>
-                <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-                <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-                <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+                <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+                <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+                <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -111,10 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.6864643">
+            <state vertical-scroll-proportion="0.0">
               <caret line="371" column="0" selection-start-line="371" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
               <folding />
             </state>
@@ -200,8 +200,8 @@
         <option value="$PROJECT_DIR$/edit2.php" />
         <option value="$PROJECT_DIR$/user.home.php" />
         <option value="$PROJECT_DIR$/includes/date.php" />
-        <option value="$PROJECT_DIR$/home.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/home.php" />
       </list>
     </option>
   </component>
@@ -355,7 +355,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="25" width="1326" height="821" extended-state="1" />
+    <frame x="41" y="25" width="1326" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -399,9 +399,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -458,9 +458,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -509,9 +509,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -560,9 +560,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -611,9 +611,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -645,9 +645,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -679,9 +679,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -713,9 +713,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -883,23 +883,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.27451">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <marker date="1453203027000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
-            <marker date="1453203027000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="371" column="0" selection-start-line="371" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.6864643">
-          <caret line="371" column="0" selection-start-line="371" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.24517088">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <marker date="1453211381000" expanded="true" signature="591:635" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="702:746" placeholder="SELECT * FRO..users..." />
+            <marker date="1453211381000" expanded="true" signature="1876:2201" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
