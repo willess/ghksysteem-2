@@ -97,6 +97,20 @@ mysqli_close($db);
 </head>
 <body>
 
+<header>
+  <nav>
+    <ul>
+      <li><a href="home.php">Home</a></li>
+      <li><a href="create.php">Gebruiker aanmaken</a></li>
+
+      <ul style="float:right;list-style-type:none;">
+        <li><a>Hallo <?php echo $user_check; ?></a></li>
+        <li><a href="personalinfo.php">Gegevens</a></li>
+        <li><a href="logout.php">Uitloggen</a> </li>
+      </ul>
+    </ul>
+  </nav>
+</header>
 
 <main>
   <div class="headplanning">
