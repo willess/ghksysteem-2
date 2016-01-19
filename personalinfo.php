@@ -54,21 +54,7 @@ if(isset($_POST['submit']))
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 </head>
 <body>
-<header>
-  <nav>
-    <ul>
-      <?php if($row['user_role'] == 'admin') { ?>
-        <li><a href="home.php">Home</a></li>
-        <li><a href="create.php">Gebruiker aanmaken</a></li>
-      <?php } ?>
-      <ul style="float:right;list-style-type:none;">
-        <li><a <?php if($row['user_role'] == 'user'){ ?>href="user.home.php" <?php } ?>>Hallo <?php echo $user_check; ?></a></li>
-        <li><a href="personalinfo.php">Gegevens</a></li>
-        <li><a href="logout.php">Uitloggen</a> </li>
-      </ul>
-    </ul>
-  </nav>
-</header>
+
 <main>
   <form method="post" action="">
     <h3>Verander je Wachtwoord</h3>
