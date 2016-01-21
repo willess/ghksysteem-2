@@ -59,16 +59,6 @@ while($row = mysqli_fetch_assoc($result))
 $sql = mysqli_query($db, "SELECT * FROM users WHERE user_id = " . mysqli_escape_string($db, $myId));
 $row2 = mysqli_fetch_array($sql);
 
-
-$queryAll = "SELECT * FROM ritten WHERE datum = '$datumTomorrow' AND user_id = " . mysqli_escape_string($db, $myId);
-$result = mysqli_query($db, $queryAll);
-
-$ritten2 = [];
-while($row = mysqli_fetch_assoc($result))
-{
-  $ritten2[] = $row;
-}
-
 mysqli_close($db);
 ?>
 <!DOCTYPE HTML>
@@ -95,10 +85,7 @@ mysqli_close($db);
   </nav>
 </header>
 
-
 <main>
-
-
   <div>
     <ul>
       <li>
@@ -122,26 +109,25 @@ mysqli_close($db);
     <table cellspacing="0">
       <thead>
       <tr>
-        <th><?= $datumTodayNL; ?></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th>Tijd: <?= $row1['begintijd']; ?></th>
-
-      </tr>
-      <tr>
-        <th>Opdrachtgever</th>
-        <th>Omschrijving</th>
-        <th>Laden/lossen</th>
-        <th>Plaats</th>
-        <th>Bijzonderheden</th>
-        <th>Autonummer</th>
-        <th>Geweest</th>
-        <th>Terugkoppeling</th>
-      </tr>
+          <th><?= $datumTodayNL; ?></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th>Tijd: <?= $row1['begintijd']; ?></th>
+        </tr>
+        <tr>
+          <th>Opdrachtgever</th>
+          <th>Omschrijving</th>
+          <th>Laden/lossen</th>
+          <th>Plaats</th>
+          <th>Bijzonderheden</th>
+          <th>Autonummer</th>
+          <th>Geweest</th>
+          <th>Terugkoppeling</th>
+        </tr>
       </thead>
       <tbody>
         <?php
